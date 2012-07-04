@@ -1,0 +1,83 @@
+
+@font-face { font-family: Graublau; src: url(../../fonts/GraublauWeb.otf) format("opentype") }
+@font-face { font-family: GraublauBold; src: url(../../fonts/GraublauWebBold.otf) format("opentype") }
+
+h1 { font-size: 46px; font-family: Graublau, Arial; color: #348106}
+h2 { font-size: 20px; font-family: Graublau, Arial; }
+h3 {
+    font-size: 20px;
+    font-family: Graublau, Arial;
+    border-bottom: 1px solid gray;
+    color: #348106;
+}
+
+h4 { font: normal "HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif; font-weight: bold; line-height: 24px; margin: 0; padding: 0; }
+
+p, a, li, input, textarea { font: 14px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif; font-weight: normal; margin: 0; padding: 0; line-height: 20px; }
+
+li { padding: 5px; color: #348106; }
+li p, h4 { color: #444444; }
+
+body {
+    background-color: #777777;
+    color: #444444;
+}
+
+a {
+    color: #348106;
+    visited: #333333;
+}
+
+#wrapper {
+    background-color: #ffffff;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 100px 100px;
+    -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.8) ;
+       -moz-box-shadow: 0 0 30px rgba(0, 0, 0, 0.8) ;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.8) ;
+}
+
+.images {
+    display: block;
+    margin: 0 auto;
+    }
+
+
+
+#header {
+    
+    width: 600px;
+    margin: 0 auto;
+    /*padding: 0;*/
+    align:center;
+}
+
+#content {
+    margin: 0 auto;
+    width: 600px;
+
+    
+    /*text-align: center;*/
+
+}
+
+h1 {
+    margin: 0;
+    padding: 50px 0 10px 0;
+
+    border-bottom: 1px solid gray;
+}
+
+
+
+#title {
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+#header ul {
+    text-align: center;
+    margin: 0 auto;
+}
