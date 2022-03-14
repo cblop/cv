@@ -2,20 +2,20 @@
 @font-face { font-family: Graublau; src: url(../fonts/GraublauWeb.otf) format("opentype") }
 @font-face { font-family: GraublauBold; src: url(../fonts/GraublauWebBold.otf) format("opentype") }
 
-h1 { font-size: 46px; font-family: Graublau, Arial; color: #348106}
+h1 { font-size: 46px; font-family: Graublau, Arial; color: #001ca6}
 h2 { font-size: 20px; font-family: Graublau, Arial; }
 h3 {
     font-size: 20px;
     font-family: Graublau, Arial;
     border-bottom: 1px solid gray;
-    color: #348106;
+    color: #001ca6;
 }
 
 h4 { font: normal "HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif; font-weight: bold; line-height: 24px; margin: 0; padding: 0; }
 
 p, a, li, input, textarea { font: 14px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif; font-weight: normal; margin: 0; padding: 0; line-height: 20px; }
 
-li { padding: 5px; color: #348106; }
+li { padding: 5px; color: #001ca6; }
 li p, h4 { color: #444444; }
 
 body {
@@ -24,7 +24,7 @@ body {
 }
 
 a {
-    color: #348106;
+    color: #001ca6;
     visited: #333333;
 }
 
